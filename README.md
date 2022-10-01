@@ -1,16 +1,27 @@
-### Hi there 👋
+My ![Visitor Count](https://profile-counter.glitch.me/bentan2013/count.svg) visitor
 
-<!--
-**bentan2013/bentan2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm ben tan
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **ESRI Beijing R&D Center**.
+- 🌱 I’m currently learning **Data Sciense**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# About My Github
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bentan2013&layout=compact)](https://github.com/bentan2013/github-readme-stats)
+
+![bentan2013's GitHub stats](https://github-readme-stats.vercel.app/api?username=bentan2013&show_icons=true)
+
+# My Skill Set
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,blender,c,cpp,d3,django,docker,dotnet,emacs,flask,git,github,ai,linux,mongodb,mysql,nginx,postgresql,powershell,pytorch,visualstudio,vscode&perline=8)](https://skillicons.dev)
+
+ 
+</div>
+
+</td></tr></table>  
+
+<br/>  
